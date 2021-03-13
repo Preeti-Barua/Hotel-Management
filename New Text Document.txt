@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=fCE1PmtbGXQ
+ insert into employees(empid,dateofbirth,gender,govtid,localrefrence,name,occupation,permanent_address,phoneno,temporary_address)values(2,'25/3/1990','M','uid222122','loky(uncle)-6662311','Suresh Prabhu','Guard','10.SardarBazar,Bhopal','444441111','Indore');
+
+
+insert into employees(empid,dateofbirth,gender,govtid,localrefrence,name,occupation,permanent_address,phoneno,temporary_address)values(1,'25/8/1995','M','uid222111','Prashant(Brother)-98562311','Raman Singh','Chef','H.no.25,Devas','2558877552','Indore');
+
+select * from employees;
